@@ -91,10 +91,10 @@ Extract the downloaded file.
 ---
 # 3. Create a Topic:
 
-Create a topic named my_group to which the producer will send messages:
+Create a topic named bbc_news_topic to which the producer will send messages:
 
 ```
-bin/kafka-topics.bat --create --topic my_group --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+bin/kafka-topics.bat --create --topic bbc_news_topic --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
 ```
 
 # 4. Run the Producer and Consumer Scripts:
