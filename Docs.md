@@ -112,3 +112,9 @@ bin/kafka-topics.bat --create --topic bbc_news_topic --bootstrap-server localhos
   Save the consumer code provided into a file, e.g., consumer.py, and run it:
 
   `python consumer.py`
+
+<br>
+
+# OUTPUT :
+
+![image](https://github.com/user-attachments/assets/03a43394-76cf-4ced-bb79-cd30eae6ff69)
